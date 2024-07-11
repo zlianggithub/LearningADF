@@ -1,0 +1,9 @@
+{
+	"name": "learnADFliang",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ddf559c0-9092-4374-8594-235abc513cd7",
+		"tenantId": "08d9b3da-f458-4444-a824-98cbf6a84455"
+	}
+}
